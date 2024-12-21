@@ -44,7 +44,8 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
-![WhatsApp Image 2024-12-18 at 11 26 31_04689c1f](https://github.com/user-attachments/assets/7ed0205d-0954-43a5-b9f1-b8d41159cca4)
+![Screenshot 2024-12-21 133843](https://github.com/user-attachments/assets/5c30b529-43e3-4b04-9641-d01612353f31)
+
 
 ### Name:shaik Lahir
 ### Register Number:24005737
